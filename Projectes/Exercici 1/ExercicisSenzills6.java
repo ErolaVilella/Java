@@ -26,9 +26,9 @@ public class ExercicisSenzills6{
         total=temps2-temps1;
         System.out.println("Has tardat "+format.format((float)total/1000)+" en escriure-ho!");
         }
-        else {
-            System.out.println("No s'ha pogut calcular.");
+    else {
+    System.out.println("No s'ha pogut calcular.");
+         }
     }
     }
-    }
-    }
+}

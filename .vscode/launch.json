@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - For",
+            "request": "launch",
+            "mainClass": "For"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bucle",
+            "request": "launch",
+            "mainClass": "Bucle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calc",
+            "request": "launch",
+            "mainClass": "Calc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ExercicisSenzills6",
             "request": "launch",
             "mainClass": "ExercicisSenzills6"
