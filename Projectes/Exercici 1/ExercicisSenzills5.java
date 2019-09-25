@@ -26,11 +26,11 @@ public class ExercicisSenzills5{
                     }
                 else {
                     System.out.println("T'has equivocat! Tens 3 punts.");
-                }
+                    }
                 }
             else {
                 System.out.println("T'has equivocat! Tens 2 punt.");
-            }
+                }
             }
             else {
                 System.out.println("T'has equivocat! Tens 1 punt.");
@@ -42,4 +42,4 @@ public class ExercicisSenzills5{
         
     }
 
-    }
+}
