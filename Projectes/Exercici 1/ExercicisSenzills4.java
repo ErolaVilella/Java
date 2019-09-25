@@ -1,3 +1,5 @@
+import java.text.DecimalFormat;
+
 public class ExercicisSenzills4{
     public static void main(String[] args) {
 
@@ -17,7 +19,10 @@ public class ExercicisSenzills4{
 
     total=preu-((desc*preu)/100);
 
-        System.out.println("El preu final de l'article "+article+" és de "+total+"€");
+
+        DecimalFormat format = new DecimalFormat("####.##");
+
+        System.out.println("El preu final de l'article "+article+" és de "+format.format(total)+"€");
 
     }
 }    
