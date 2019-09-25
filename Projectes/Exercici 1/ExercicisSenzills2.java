@@ -24,10 +24,11 @@ public class ExercicisSenzills2{
        }
        else if (imc<29.9){
            System.out.println("Els càlculs indiquen que tens sobrepes.");
+        }
+       else {
+           System.out.println("Tens obesitat.");
        }
     
-
-
-        
+       
         }    
     }
