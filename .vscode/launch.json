@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestArray",
+            "request": "launch",
+            "mainClass": "TestArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExercicisSenzills4",
+            "request": "launch",
+            "mainClass": "ExercicisSenzills4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExercicisSenzills3",
+            "request": "launch",
+            "mainClass": "ExercicisSenzills3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExercicisSenzills2",
+            "request": "launch",
+            "mainClass": "ExercicisSenzills2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExercicisSenzills",
+            "request": "launch",
+            "mainClass": "ExercicisSenzills"
+        }
+    ]
+}
