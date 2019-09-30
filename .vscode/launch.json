@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Trio",
+            "request": "launch",
+            "mainClass": "Trio"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - provaex8",
+            "request": "launch",
+            "mainClass": "provaex8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Provaex8",
+            "request": "launch",
+            "mainClass": "Provaex8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExercicisSenzills8",
+            "request": "launch",
+            "mainClass": "ExercicisSenzills8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Activitat8",
+            "request": "launch",
+            "mainClass": "Activitat8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ExercicisSenzills7",
             "request": "launch",
             "mainClass": "ExercicisSenzills7"
